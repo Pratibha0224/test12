@@ -470,7 +470,7 @@
   <DATA ENCODING="XMLValues" I18N="true">
 
 <Values version="2.0">
-  <value name="xml">project.pt1010.PT1010Project.project_pt1010_PT1010Project_SampleConnector.connections:sampleConn</value>
+  <value name="xml">project.pt1010.http.connections:cloudconn</value>
   <record name="type" javaclass="com.wm.util.Values">
     <value name="node_type">unknown</value>
     <value name="node_subtype">unknown</value>
