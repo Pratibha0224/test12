@@ -101,6 +101,9 @@
   <value name="is_public">true</value>
 =======
   <value name="is_public">false</value>
+<<<<<<< HEAD
 >>>>>>> bf57372 (test12)
   <value name="is_visible">true</value>
+=======
+>>>>>>> f526295 (Revert "test12")
 </Values>
